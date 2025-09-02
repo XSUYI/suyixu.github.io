@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "About Me"
-description              : "Hi! I am a MRes Design Engineering student at Imperial. My research interest includes smart manufacturing, Industry 5.0, and human-centered digitalisation."
-repository               :
+description              : MRes in Design Engineering; MEng in Mechanical Engineering
 google_scholar_stats_use_cdn : true
 
 # google analytics
