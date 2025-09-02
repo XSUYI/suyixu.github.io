@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About Me"
-description              : MRes in Design Engineering; MEng in Mechanical Engineering
+description              : "MRes in Design Engineering;" \n "MEng in Mechanical Engineering"
 google_scholar_stats_use_cdn : true
 
 # google analytics
