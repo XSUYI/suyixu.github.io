@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "About Me"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Hi! I am a MRes Design Engineering student at Imperial. My research interest includes smart manufacturing, Industry 5.0, and human-centered digitalisation."
+repository               :
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Suyi Xu"
-  avatar           : "images/Suyi_casual"
+  avatar           : "images/Suyi_casual.jpg"
   bio              : "Imperial College London"
   location         : "London, England"
   employer         :
